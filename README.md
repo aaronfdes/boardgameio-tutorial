@@ -2,6 +2,8 @@
 
 Tutorial project from https://boardgame.io/documentation/#/tutorial
 
+Creates a TicTacToe game in React using the boardgame engine. Also has bot support.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
